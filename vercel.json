@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "name": "alyeska",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/"}
-  ],
-  "cleanUrls": true,
-  "trailingSlash": false
-}
