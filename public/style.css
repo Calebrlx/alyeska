@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #ffffff;
+    background-color: #1a2a3a;
+    margin: 0;
+    padding: 20px;
+    font-size: 16px;
+}
+
+header,
+footer {
+    background: linear-gradient(to right, #3a577a, #1a2a3a);
+    padding: 10px 20px;
+    text-align: center;
+}
+
+section {
+    background-color: #2a3a5a;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1,
+h2 {
+    color: #cceeff;
+}
+
+p,
+li {
+    line-height: 1.6;
+}
+
+a {
+    color: #80d4ff;
+}
