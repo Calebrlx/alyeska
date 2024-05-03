@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Caleb Forestal - Specializing in Web Development, AI Integrations, and Practical Business Structure Insights in Alaska.">
+    <meta name="keywords"
+        content="Caleb Forestal, Alyeska.dev, Web Development, AI Integration, Business Consulting, Entrepreneur, Alaska">
+    <title>Caleb Forestal | Alyeska.dev</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            color: #ffffff;
+            background-color: #1a2a3a;
+            margin: 0;
+            padding: 20px;
+            font-size: 16px;
+        }
+
+        header,
+        footer {
+            background: linear-gradient(to right, #3a577a, #1a2a3a);
+            padding: 10px 20px;
+            text-align: center;
+        }
+
+        section {
+            background-color: #2a3a5a;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        h1,
+        h2 {
+            color: #cceeff;
+        }
+
+        p,
+        li {
+            line-height: 1.6;
+        }
+
+        a {
+            color: #80d4ff;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Alyeska.dev</h1>
+        <p>Empowering your business with innovative web and AI solutions tailored to your needs.</p>
+    </header>
+
+    <!-- <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav> -->
+
+    <section id="about">
+        <h2>About Caleb Forestal</h2>
+        <p>Hello! I'm Caleb Forestal, a passionate entrepreneur and technologist based in Alaska. Starting with a simple
+            lawn care business and moving into the tech world, I have developed a strong foundation in web design, AI
+            technologies, and digital marketing through both my entrepreneurial ventures, such as RelixAI and powder.ly,
+            and various personal projects.</p>
+    </section>
+
+    <section id="services">
+        <h2>What I Specialize In</h2>
+        <ul>
+            <li><strong>Branding and Web Design:</strong> Creating visually appealing and brand-aligned web designs.
+            </li>
+            <li><strong>Third-Party Integrations:</strong> Seamlessly integrating essential third-party solutions to
+                enhance website functionality.</li>
+            <li><strong>Web Optimization:</strong> Ensuring your website runs smoothly and efficiently with optimized
+                code and responsive design.</li>
+            <li><strong>Search Engine Optimization (SEO):</strong> Boosting your site's visibility with proven SEO
+                strategies.</li>
+            <li><strong>AI Solutions:</strong> Implementing AI to automate and improve business processes.</li>
+        </ul>
+    </section>
+
+
+    <section id="services">
+        <h2>What I Specialize In</h2>
+        <ul>
+            <li><strong>Branding and Web Design</strong></li>
+            <li><strong>Third-Party Integrations</strong></li>
+            <li><strong>Web Optimization</strong></li>
+            <li><strong>Search Engine Optimization (SEO)</strong></li>
+            <li><strong>AI Solutions</strong></li>
+        </ul>
+    </section>
+
+    <section id="branding">
+        <h2>Branding and Web Design</h2>
+        <p>Effective branding and professional web design are crucial for making a great first impression. I create
+            bespoke websites that not only look great but also truly represent your brand’s values and appeal to your
+            target audience. This can significantly enhance your brand’s visibility and customer engagement.</p>
+    </section>
+
+    <section id="integrations">
+        <h2>Third-Party Integrations</h2>
+        <p>Integrating third-party services can enhance your website’s functionality and user experience. Whether it's
+            payment systems, social media services, or any other tools, I ensure seamless integration that enhances the
+            capabilities of your website without compromising on performance.</p>
+    </section>
+
+    <section id="optimization">
+        <h2>Web Optimization</h2>
+        <p>A well-optimized website is fast, responsive, and reliable. I focus on optimizing all aspects of your
+            website, from the underlying code to the user interface, ensuring that your visitors have the best
+            experience possible. This not only improves user satisfaction but also aids in higher SEO rankings.</p>
+    </section>
+
+    <section id="seo">
+        <h2>Search Engine Optimization (SEO)</h2>
+        <p>SEO is essential to increase visibility and drive traffic to your site. I apply the latest SEO strategies
+            that are tailored to your specific industry needs, helping your website rank higher in search results, which
+            increases organic traffic and leads to better conversion rates.</p>
+    </section>
+
+    <section id="ai">
+        <h2>AI Solutions</h2>
+        <p>AI can transform how you interact with your customers and streamline your operations. I develop AI-driven
+            tools that can automate tasks, provide insights based on data, and enhance decision-making processes,
+            thereby increasing efficiency and reducing costs.</p>
+    </section>
+
+    <footer id="contact">
+        <h2>Contact Me</h2>
+        <p>Ready to take your business to the next level? Let’s talk! Email me at <a
+                href="mailto:caleb@alyeska.dev">caleb[at]alyeska.dev</a></p>
+    </footer>
+</body>
+
+</html>
