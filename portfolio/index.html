@@ -18,6 +18,11 @@
             padding: 20px;
             text-align: center;
         }
+        .warning {
+            background-color: #ffcc00;
+            color: #333;
+            font-weight: bold;
+        }
         section {
             padding: 20px;
             margin: 10px;
@@ -34,6 +39,10 @@
     </style>
 </head>
 <body>
+    <div class="warning">
+        <p>Warning: This site is not optimized for mobile devices and is primarily a simple resume dump.</p>
+    </div>
+    
     <header>
         <h1>Caleb Forestal</h1>
         <p>Full Stack Developer and AI Enthusiast</p>
@@ -55,8 +64,31 @@
 
     <section id="skills">
         <h2>Skills</h2>
-        <p>Proficient in Next.js, Java/Typescript, Python, Swift, and AWS. Experienced with CLI tools, GitHub, and AI technologies like ChatGPT.</p>
+        <div>
+            <h3>Web Development</h3>
+            <p><strong>Next.js:</strong> Expert in building scalable and performant web applications using Next.js. Familiar with advanced features like server-side rendering, static site generation, and API routes.</p>
+            <p><strong>Java/TypeScript:</strong> Proficient in using both Java and TypeScript for building robust server-side and client-side applications, with a strong emphasis on type-safe code and efficient performance.</p>
+        </div>
+        <div>
+            <h3>Programming Languages</h3>
+            <p><strong>Python:</strong> Experienced in using Python for scripting, data manipulation, and back-end development. Skilled in Python libraries like Flask, Django, and Pandas for web services and data analysis tasks.</p>
+            <p><strong>Swift:</strong> Knowledgeable in Swift for iOS app development, focusing on creating smooth user experiences and leveraging the latest iOS SDK features.</p>
+        </div>
+        <div>
+            <h3>Cloud and DevOps</h3>
+            <p><strong>AWS:</strong> Well-versed in using various AWS services such as EC2, S3, RDS, and Lambda for hosting, storage, database management, and serverless computing, ensuring scalable and reliable infrastructure.</p>
+            <p><strong>CLI/Shell Scripting:</strong> Comfortable with Unix/Linux command line interfaces and scripting, enhancing productivity and automating repetitive tasks in development workflows.</p>
+        </div>
+        <div>
+            <h3>Version Control and Collaboration</h3>
+            <p><strong>GitHub:</strong> Competent in using Git and GitHub for version control, code reviews, and collaborative project management. Experienced in branching, merging, and handling pull requests efficiently.</p>
+        </div>
+        <div>
+            <h3>Artificial Intelligence</h3>
+            <p><strong>AI Technologies:</strong> Proficient in integrating and leveraging advanced AI models like ChatGPT for enhancing applications with natural language processing capabilities. Skilled in applying AI to solve practical business problems and improve user interactions.</p>
+        </div>
     </section>
+    
 
     <section id="education">
         <h2>Education</h2>
